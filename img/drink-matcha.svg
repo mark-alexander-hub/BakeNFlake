@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <rect width="400" height="300" fill="#2C1810"/>
+  <defs><linearGradient id="bg4" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#3D5A3A"/><stop offset="100%" stop-color="#2C1810"/></linearGradient></defs>
+  <rect width="400" height="300" fill="url(#bg4)" opacity="0.4"/>
+  <!-- Tall iced glass -->
+  <path d="M155 60 L145 230 Q145 240 155 240 L245 240 Q255 240 255 230 L245 60 Z" fill="#E8F5E8" opacity="0.85"/>
+  <!-- Ice cubes -->
+  <rect x="165" y="80" width="25" height="25" rx="4" fill="white" opacity="0.5"/>
+  <rect x="200" y="90" width="25" height="25" rx="4" fill="white" opacity="0.4"/>
+  <rect x="175" y="120" width="25" height="25" rx="4" fill="white" opacity="0.45"/>
+  <!-- Matcha liquid -->
+  <rect x="150" y="150" width="100" height="85" rx="0" fill="#6B8E5A" opacity="0.7"/>
+  <!-- Straw -->
+  <rect x="215" y="30" width="8" height="200" rx="4" fill="#DAA520"/>
+  <text x="200" y="275" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#DAA520" letter-spacing="3">ICED MATCHA</text>
+</svg>

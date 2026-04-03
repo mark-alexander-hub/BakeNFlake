@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <rect width="400" height="300" fill="#2C1810"/>
+  <defs><linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#4A2A15"/><stop offset="100%" stop-color="#2C1810"/></linearGradient></defs>
+  <rect width="400" height="300" fill="url(#bg3)" opacity="0.5"/>
+  <!-- Mug -->
+  <rect x="135" y="100" width="130" height="130" rx="12" fill="#8B4513"/>
+  <rect x="140" y="105" width="120" height="60" rx="8" fill="#3E1A08"/>
+  <!-- Whipped cream -->
+  <ellipse cx="200" cy="105" rx="55" ry="18" fill="#FFF5E1"/>
+  <circle cx="185" cy="98" r="12" fill="#FAFAFA"/>
+  <circle cx="210" cy="95" r="14" fill="#FAFAFA"/>
+  <circle cx="198" cy="90" r="10" fill="#FAFAFA"/>
+  <!-- Cocoa sprinkle -->
+  <circle cx="195" cy="92" r="1.5" fill="#5C3317"/>
+  <circle cx="205" cy="88" r="1" fill="#5C3317"/>
+  <circle cx="188" cy="95" r="1.2" fill="#5C3317"/>
+  <!-- Handle -->
+  <path d="M265 130 Q300 130 300 165 Q300 200 265 200" stroke="#8B4513" stroke-width="10" fill="none"/>
+  <text x="200" y="275" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#DAA520" letter-spacing="3">HOT CHOCOLATE</text>
+</svg>
